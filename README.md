@@ -1,7 +1,6 @@
 testerProject
 =============
-
-testerProject
+private branch ==
 
 Add a test project for GitHub usage. 
 
